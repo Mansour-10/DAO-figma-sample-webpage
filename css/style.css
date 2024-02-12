@@ -1392,9 +1392,5 @@ li:hover ul#submenu {
     background-color: #121e28;
   }
 }
-@media only screen and (max-width: 576px) {
-  .container {
-    width: 475px;
-  }
-}
+
 /* end footer */
